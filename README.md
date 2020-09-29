@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# INT161 - Increase Automation in Document Processing Workflows
 
 ## Description
 
