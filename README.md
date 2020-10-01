@@ -1,4 +1,4 @@
-# INT161 - Increase Automation in Document Processing Workflows
+# INT161 - Detect and Highlight Entities from Unstructured Text Using Machine Learning
 
 ## Description
 
