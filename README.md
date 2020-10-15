@@ -2,11 +2,12 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2020 session called INT161 - Detect and Highlight Entities from Unstructured Text Using Machine Learning.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the Business Entity Recognition service. Business Entity Recognition helps to detect and highlight any given type of named entity in unstructured text and classify it in accordance with predefined categories. You can use this artificial intelligence business service, for example, to automatically extract the context from incoming emails with invoice inquiries, automating recurring tasks associated with answering queries about the status and payment of invoices.
+The service includes pre-trained models that are immediately productive. There is also a provision to build your own custom models to extract the entities based on your requirements.
 
 ## Requirements
 
@@ -14,28 +15,7 @@ The requirements to follow the exercises in this repository are...
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/exercises/INT161_Workshop%20Material.pdf).
 
 ## How to obtain support
 
