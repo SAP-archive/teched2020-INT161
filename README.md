@@ -11,10 +11,11 @@ The service includes pre-trained models that are immediately productive. There i
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are: Knowledge of using Swagger UI to send API. requests.
 
 ## Exercises
 
+Find the supplemental documentation [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/INT161_Presentation.pdf)
 Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/exercises/INT161_Workshop%20Material.pdf).
 
 ## How to obtain support
