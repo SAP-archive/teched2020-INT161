@@ -15,7 +15,8 @@ The requirements to follow the exercises in this repository are: Knowledge of us
 
 ## Exercises
 
-Find the supplemental documentation [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/INT161_Presentation.pdf)
+Find the supplemental documentation [here].(https://github.com/SAP-samples/teched2020-INT161/blob/master/INT161_Presentation.pdf)
+
 Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/exercises/INT161_Workshop%20Material.pdf).
 
 ## How to obtain support
