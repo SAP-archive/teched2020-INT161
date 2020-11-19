@@ -11,7 +11,7 @@ The service includes pre-trained models that are immediately productive. There i
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are: Knowledge of using Swagger UI to send API. requests.
+The requirements to follow the exercises in this repository are: Knowledge of using Swagger UI to send API requests.
 
 ## Exercises
 
