@@ -13,11 +13,24 @@ The service includes pre-trained models that are immediately productive. There i
 
 The requirements to follow the exercises in this repository are: Knowledge of using Swagger UI to send API requests.
 
-## Exercises
+## Documentation
 
 Find the supplemental documentation [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/INT161_Presentation.pdf).
 
+
+## Pre-requisites
+
+* [Get a free trial account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+
+* [Create Service Instance for Business Entity Recognition](https://developers.sap.com/tutorials/cp-aibus-ber-service-instance.html)
+
+* [Get OAuth Access Token for Business Entity Recognition](https://developers.sap.com/tutorials/cp-aibus-ber-web-oauth-token.html)
+
+
+## Exercises
+
 Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/exercises/INT161_Workshop%20Material.pdf).
+
 
 ## How to obtain support
 
