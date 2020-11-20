@@ -29,7 +29,7 @@ Find the supplemental documentation [here](https://github.com/SAP-samples/teched
 
 ## Exercises
 
-Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/master/exercises/INT161_Workshop%20Material.pdf).
+Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/main/exercises/INT161_Workshop%20HandsOn.pdf).
 
 
 ## How to obtain support
