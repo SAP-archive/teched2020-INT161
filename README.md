@@ -25,6 +25,7 @@ Find the supplemental documentation [here](https://github.com/SAP-samples/teched
 * [Create Service Instance for Business Entity Recognition](https://developers.sap.com/tutorials/cp-aibus-ber-service-instance.html)
 
 * [Get OAuth Access Token for Business Entity Recognition](https://developers.sap.com/tutorials/cp-aibus-ber-web-oauth-token.html)
+Note: If you have attended previous sessions where you generated token, please execute the steps in an incognito browser window.
 
 
 ## Exercises
