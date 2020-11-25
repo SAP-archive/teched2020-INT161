@@ -25,12 +25,13 @@ Find the supplemental documentation [here](https://github.com/SAP-samples/teched
 * [Create Service Instance for Business Entity Recognition](https://developers.sap.com/tutorials/cp-aibus-ber-service-instance.html)
 
 * [Get OAuth Access Token for Business Entity Recognition](https://developers.sap.com/tutorials/cp-aibus-ber-web-oauth-token.html)
+
 Note: If you have attended previous sessions where you generated token, please execute the steps in an incognito browser window.
 
 
 ## Exercises
 
-Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/main/exercises/INT161_Workshop%20HandsOn.pdf).
+Start the exercises [here](https://github.com/SAP-samples/teched2020-INT161/blob/main/exercises/INT161_Workshop%20Material.pdf).
 
 
 ## How to obtain support
