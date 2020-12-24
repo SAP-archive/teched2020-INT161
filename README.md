@@ -1,5 +1,7 @@
 # INT161 - Detect and Highlight Entities from Unstructured Text Using Machine Learning
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-INT161)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-INT161)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called INT161 - Detect and Highlight Entities from Unstructured Text Using Machine Learning.  
